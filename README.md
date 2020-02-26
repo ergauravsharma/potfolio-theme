@@ -4,6 +4,6 @@ Portfolio is a one page freelancer portfolio theme for [Bootstrap](http://getboo
 
 ## Preview
 
-[![Freelancer Preview](https://startbootstrap.com/assets/img/screenshots/themes/freelancer.png)](https://blackrockdigital.github.io/startbootstrap-freelancer/)
+[![Portfolio Preview](https://repository-images.githubusercontent.com/243196784/6ae8b700-589c-11ea-81ae-08428581f668)]
 
-**[View Live Preview](https://blackrockdigital.github.io/startbootstrap-freelancer/)**
+**[View Live Preview](https://ergauravsharma.github.io/potfolio-theme/)**
