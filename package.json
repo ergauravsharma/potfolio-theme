@@ -1,0 +1,37 @@
+{
+  "name": "freelancer",
+  "version": "1.0.0",
+  "description": "A one page portfolio theme for Bootstrap created by Start Bootstrap.",
+  "main": "index.html",
+  "scripts": {
+    "start": "node_modules/.bin/gulp watch"
+  },
+  "author": "",
+  "contributors": [
+    "Gaurav Sharma"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ergauravsharma/potfolio-theme.git"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.4.1",
+    "jquery": "^3.4.1",
+    "jquery.easing": "^1.4.1",
+    "magnific-popup": "^1.1.0"
+  },
+  "devDependencies": {
+    "browser-sync": "2.26.7",
+    "del": "5.1.0",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "7.0.0",
+    "gulp-clean-css": "4.2.0",
+    "gulp-header": "2.0.9",
+    "gulp-plumber": "^1.2.1",
+    "gulp-rename": "1.4.0",
+    "gulp-sass": "4.0.2",
+    "gulp-uglify": "3.0.2",
+    "merge-stream": "2.0.0"
+  }
+}
